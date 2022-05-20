@@ -30,9 +30,6 @@ namespace bt_demo
             Program.nhap(a, n);
             Program.hienthi(a, n);
             Console.ReadKey();
-
-
-
         }
     }
 }
